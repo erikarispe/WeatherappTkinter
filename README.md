@@ -1,6 +1,11 @@
 # WeatherappTkinter
 This is a project to get current weather data using openweather api and displayed with Tkinter
-This is written in a python file and has a ini file to be able to read from 
+This is written in a python file and has a ini file to be able to read from, this also has a weather_icons file which holds each icon of the current weather.
+
+Three files that you will have are:
+config.ini
+weather_app.py
+weather_icons
 
 Create an api key from openweather https://openweathermap.org/api
 
